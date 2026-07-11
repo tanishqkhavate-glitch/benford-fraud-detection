@@ -1,5 +1,5 @@
-| Phase | Content | Status |
-|-------|---------|--------|
+| Phase  | Content                                       |         Status |
+|--------|-----------------------------------------------|----------------|
 | Week 1 | Expected frequency, first digit extraction,
            observed vs expected, supplier deviation | ✅ Complete |
 | Week 2 | Chi-square testing, Z-score anomaly detection,
