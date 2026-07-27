@@ -1,6 +1,6 @@
 # Benford's Law Fraud Detection Engine
 
-**Tools:** PostgreSQL · Microsoft Excel · Power BI
+**Tools:** PostgreSQL · Power BI
 **Status:** ✅ Complete
 **Dataset:** Northwind Database (PostgreSQL)
 **Period:** Aug 1994 – Jun 1996 | 29 Suppliers | 830 Orders | 77 Products
